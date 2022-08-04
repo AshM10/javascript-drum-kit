@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1433" alt="Screen Shot 2022-08-04 at 10 45 26 AM" src="https://user-images.githubusercontent.com/89284873/182893290-950c1b6e-f887-4ed2-a068-8eee7c3b229c.png">
+
 
 ### Links
 
