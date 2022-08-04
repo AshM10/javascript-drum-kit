@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AshM10/javascript-drum-kit)
-- Live Site URL: [Add live site URL here](https://ash-js-drumkit.netlify.app)
+- Solution URL: [GitHub](https://github.com/AshM10/javascript-drum-kit)
+- Live Site URL: [Netlify](https://ash-js-drumkit.netlify.app)
 
 ## My process
 
